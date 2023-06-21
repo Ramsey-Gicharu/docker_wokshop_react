@@ -1,2 +1,2 @@
 # Containerize A React Application
-# Changes to view schedules on Jenkins
+# Changes to view schedules on Jenkins every minute
